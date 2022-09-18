@@ -1,0 +1,10 @@
+php-log
+
+Library for logging.
+
+
+Design goals
+
+DG1. Logging with visibility levels
+DG2. Extensible to future external output sources
+DG3. Deleting old logs (determined by their configured visibility levels)
